@@ -1,0 +1,21 @@
+Prathmesh Learning License v1.0
+
+Copyright (c) 2026 Prathmesh Joshi
+
+This repository is created for educational and personal learning purposes only.
+
+PERMISSIONS:
+- You may view, study, and learn from this repository.
+- You may use small portions of the code in your own projects with proper credit.
+
+RESTRICTIONS:
+- You may NOT copy, redistribute, or republish this repository (fully or partially).
+- You may NOT present this work as your own.
+- You may NOT use this repository for commercial purposes.
+
+ATTRIBUTION:
+- If you use any part of this code, you must give proper credit to:
+  Prathmesh Joshi (GitHub profile link)
+
+NO WARRANTY:
+This project is provided "as is" without any warranty.
