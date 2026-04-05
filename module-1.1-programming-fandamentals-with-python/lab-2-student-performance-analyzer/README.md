@@ -198,4 +198,4 @@ C: 90 → Grade A
 
 ## ⭐ Support
 
-If this lab helped and you liked it, give it a ⭐ and keep building!
+If you liked it, give it a ⭐ and keep building!
