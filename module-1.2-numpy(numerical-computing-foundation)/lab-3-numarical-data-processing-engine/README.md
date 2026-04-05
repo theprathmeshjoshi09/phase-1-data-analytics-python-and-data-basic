@@ -83,16 +83,7 @@ lab_numpy_processing/
 
 ## 🛠️ Environment Setup
 
-### Step 1: Clone the Repository
-
-```bash
-git clone <your-repo-link>
-cd lab_numpy_processing
-```
-
----
-
-### Step 2: Create Virtual Environment (Recommended)
+### Step 1: Create Virtual Environment (Recommended)
 
 #### 🔹 Windows
 
@@ -110,7 +101,7 @@ source venv/bin/activate
 
 ---
 
-### Step 3: Install Dependencies
+### Step 2: Install Dependencies
 
 ```bash
 pip install -r requirements.txt
