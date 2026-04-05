@@ -228,20 +228,6 @@ variance: 218.75
 
 ---
 
-## ⚠️ Important Note
-
-This is not just a coding project.
-
-👉 This is **data thinking training**
-
-Don’t just run it:
-
-* Modify logic
-* Add new insights
-* Test with different datasets
-
----
-
 ## 🚀 Future Improvements
 
 * Add visualization (Matplotlib / Seaborn)
