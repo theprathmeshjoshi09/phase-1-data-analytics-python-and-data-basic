@@ -182,18 +182,6 @@ Sara    1650
 
 ---
 
-## ⚠️ Important Note
-
-This project is about **thinking, not just coding**.
-
-👉 Don’t just run it
-👉 Ask questions about the data
-👉 Try to explain the results
-
-That’s what real analysts do.
-
----
-
 ## 🚀 Future Improvements
 
 * Add revenue column (`sales * quantity`)
@@ -211,4 +199,4 @@ That’s what real analysts do.
 
 ## ⭐ Support
 
-If this lab helped and you like it, give it a ⭐ and keep building! 
+If you like it, give it a ⭐ and keep building! 
