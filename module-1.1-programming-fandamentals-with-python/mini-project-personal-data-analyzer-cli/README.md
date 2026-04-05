@@ -191,5 +191,5 @@ That’s how real growth happens.
 
 ## ⭐ Support
 
-If this project helped and you liked it, give it a ⭐ and keep building!
+If you liked it, give it a ⭐ and keep building!
 
