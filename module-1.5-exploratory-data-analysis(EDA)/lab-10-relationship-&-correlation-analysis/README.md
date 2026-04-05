@@ -126,7 +126,7 @@ The project generates:
 
 ## 📸 Execution Proof (Screenshots)
 
-> Add screenshots after running the project
+> Added screenshots after running the project
 
 ![Screenshot](screenshots/Screenshot%20(1310).png)
 
@@ -203,6 +203,6 @@ The project generates:
 
 ## ⭐ Support
 
-If this lab helped and you liked it, give it a ⭐ and keep building!
+If you liked it, give it a ⭐ and keep building!
 
 ---

@@ -186,6 +186,6 @@ Additionally, it will print:
 
 ## ⭐ If you found this useful
 
-If this lab helped and you liked it, give it a ⭐ and keep building!
+If you liked it, give it a ⭐ and keep building!
 
 

@@ -156,11 +156,11 @@ python main.py
 
  🔹 Bar Chart — Sales by Category
   
-   ![Screenshot](./screenshots/Screenshot%20(1292).png)
+   ![Screenshot](./screenshots/Screenshot%20(1294).png)
  
  🔹 Histogram — Sales Distribution
 
-   ![Screenshot](./screenshots/Screenshot%20(1294).png)
+   ![Screenshot](./screenshots/Screenshot%20(1295).png)
 
 ---
 

@@ -253,6 +253,6 @@ outputs/
 
 ## ⭐ Support
 
-If this this helped and you liked it, please consider giving it a ⭐ keep building!
+If you liked it, please consider giving it a ⭐ keep building!
 
 ---

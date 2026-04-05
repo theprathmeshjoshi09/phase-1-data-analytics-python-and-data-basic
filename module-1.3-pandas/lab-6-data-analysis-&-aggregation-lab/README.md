@@ -170,6 +170,8 @@ Sara    1650
 
  ![Screenshot](./screenshots/Screenshot%20(1288).png)
 
+ ![Screenshot](./screenshots/Screenshot%20(1289).png)
+
 ---
 
 ## 🧠 Learning Outcomes
