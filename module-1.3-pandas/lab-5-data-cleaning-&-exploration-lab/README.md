@@ -188,18 +188,6 @@ python main.py
 
 ---
 
-## ⚠️ Important Note
-
-This project is about **understanding data**, not just code.
-
-👉 Don’t just run it
-👉 Modify cleaning logic
-👉 Test with messy datasets
-
-That’s how you grow.
-
----
-
 ## 🚀 Future Improvements
 
 * Add revenue column (`sales * quantity`)
@@ -217,4 +205,4 @@ That’s how you grow.
 
 ## ⭐ Support
 
-If this lab helped and you liked it , give it a ⭐ and keep building!
+If you liked it , give it a ⭐ and keep building!
