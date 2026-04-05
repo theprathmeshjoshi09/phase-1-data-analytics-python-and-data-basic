@@ -193,8 +193,11 @@ variance: 218.75
 
 ### 1: Manual Input 
  🔹 Input & Cleaned Data
+ 
  🔹 Statistical Analysis Output
+ 
  🔹 Transformations Output
+ 
  🔹 Insights Output
 
 ![Screenshot](./screenshots/Screenshot%20(1278).png)
@@ -202,8 +205,11 @@ variance: 218.75
 
 ### 2: File Input 
  🔹 Input & Cleaned Data
+ 
  🔹 Statistical Analysis Output
+ 
  🔹 Transformations Output
+ 
  🔹 Insights Output
 
 ![Screenshot](./screenshots/Screenshot%20(1280).png)
