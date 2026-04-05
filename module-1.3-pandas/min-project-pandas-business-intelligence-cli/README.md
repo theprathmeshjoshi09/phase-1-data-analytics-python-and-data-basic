@@ -185,16 +185,6 @@ Best Region: North (4000)
 
 ---
 
-## ⚠️ Important Note
-
-This project is about **thinking like an analyst**, not just writing code.
-
-👉 Don’t just run it
-👉 Analyze results
-👉 Ask: *What does this data mean?*
-
----
-
 ## 🚀 Future Improvements
 
 * Monthly and seasonal trend analysis
@@ -212,4 +202,4 @@ This project is about **thinking like an analyst**, not just writing code.
 
 ## ⭐ Support
 
-If this project helped and you liked it, give it a ⭐ and keep building!
+If you liked it, give it a ⭐ and keep building!
