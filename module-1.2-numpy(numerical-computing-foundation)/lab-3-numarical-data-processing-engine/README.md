@@ -194,4 +194,4 @@ That’s how you build real skills.
 
 ## ⭐ Support
 
-If this lab helped and you liked it, give it a ⭐ and keep building!
+If you liked it, give it a ⭐ and keep building!

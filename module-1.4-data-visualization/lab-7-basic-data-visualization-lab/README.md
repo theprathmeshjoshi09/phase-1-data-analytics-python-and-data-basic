@@ -152,11 +152,11 @@ python main.py
 
  🔹 Line Plot — Sales Trend
     
-   ![Screenshot](./screenshots/Screenshot%20(1292).png)
+   ![Screenshot](./screenshots/Screenshot%20(1293).png)
 
  🔹 Bar Chart — Sales by Category
   
-   ![Screenshot](./screenshots/Screenshot%20(1293).png)
+   ![Screenshot](./screenshots/Screenshot%20(1292).png)
  
  🔹 Histogram — Sales Distribution
 
@@ -171,15 +171,6 @@ python main.py
 * Comparing categories using charts
 * Identifying data distribution and outliers
 * Building foundation for data storytelling
-
----
-
-## ⚠️ Important Note
-
-Visualization is not about charts — it’s about **insight**.
-
-👉 Don’t just look at graphs
-👉 Ask: *What is this telling me?*
 
 ---
 
@@ -201,4 +192,4 @@ Visualization is not about charts — it’s about **insight**.
 
 ## ⭐ Support
 
-If this lab helped and you liked it, give it a ⭐ and keep building!
+If you liked it, give it a ⭐ and keep building!

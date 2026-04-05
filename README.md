@@ -216,3 +216,15 @@ phase-1/
 If you find this interesting , feel free to ⭐ the repository!
 
 ---
+
+## 📜 License
+This project is licensed under the **Prathmesh Learning License v1.0**.  
+See the `LICENSE` file for details.
+
+---
+
+⚠️ **Note:**  
+This repository is created for learning purposes only.  
+Do not copy or republish this project.
+
+---
