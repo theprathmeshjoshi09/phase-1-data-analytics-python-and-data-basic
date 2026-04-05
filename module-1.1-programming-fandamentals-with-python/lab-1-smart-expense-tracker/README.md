@@ -53,9 +53,13 @@ expense_tracker/
 ## ⚙️ Features
 
 ✔ Add Expense
+
 ✔ View All Expenses
+
 ✔ Calculate Total Spending
+
 ✔ Category-wise Spending
+
 ✔ Persistent Storage (file-based)
 
 ---
